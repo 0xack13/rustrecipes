@@ -1,8 +1,8 @@
-mod delimit;
+mod external_lib;
 
-use crate::delimit::*;
+use crate::external_lib::*;
 
 fn main() {
-    println!("Hello, world!");
-    delimit(); 
+    println!("Main function.");
+    external_lib_method(); 
 }
