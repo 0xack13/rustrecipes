@@ -1,3 +1,4 @@
 # rustrecipes
 
-* all_imports: importing a method in an external file.
+* import_all: importing a method in an external file.
+* using_trait: using trait with struct
